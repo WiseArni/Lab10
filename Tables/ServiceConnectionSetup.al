@@ -4,6 +4,7 @@
 // ------------------------------------------------------------------------------------------------
 
 table 50101 "Service Connection Setup"
+
 {
     Caption = 'Service Connection Setup';
     fields
