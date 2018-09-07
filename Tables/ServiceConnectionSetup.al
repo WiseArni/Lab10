@@ -8,12 +8,12 @@ table 50101 "Service Connection Setup"
 {
     Caption = 'Service Connection Setup';
     fields
-    {"Primary Key"
+    {
         field(1; "Primary Key"; Code[10])
         {
             Caption = 'Primary Key';
             Description = 'The primary key of the setup entry';
-        }"Service URL"
+        }
         field(2; "Service URL"; Text[250])
         {
             Caption = 'Service URL';
